@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 120" width="1280" height="120" preserveAspectRatio="none">
-<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#5ef2ff"/><stop offset=".5" stop-color="#8f9bff"/><stop offset="1" stop-color="#c79bff"/></linearGradient>
-<style>.w1{animation:m 9s ease-in-out infinite alternate}.w2{animation:m 13s ease-in-out infinite alternate-reverse}@keyframes m{to{transform:translateX(-160px)}}</style></defs>
-<path class="w2" d="M0 60 Q160 20 320 60 T640 60 T960 60 T1280 60 T1600 60 V120 H0Z" fill="url(#g)" opacity=".25"/>
-<path class="w1" d="M0 75 Q160 40 320 75 T640 75 T960 75 T1280 75 T1600 75 V120 H0Z" fill="url(#g)" opacity=".45"/>
-<path d="M0 92 Q320 70 640 92 T1280 92 V120 H0Z" fill="#0b0b16"/></svg>
